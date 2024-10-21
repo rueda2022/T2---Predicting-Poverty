@@ -16,4 +16,13 @@ El modelo ganador corresponde a una red neuronal con la siguiente arquitectura:
 ![image](https://github.com/user-attachments/assets/fc722c9d-efe1-44b9-bd3b-992772eef261)
 
 
+# Replicabilidad.
+
+Si el lector desea reaizar predicciones que simulen lo realizado en el informe se recomienda seguir los siguientes pasos:
+- Descargar los datos disponibles en la competencia.
+- Seguir el notebook a lo largo de todas las celdas hasta la celda anterior a "Regresión logística", dado que ahí inician los modelos de clasificación.
+- Correr la creación de la matriz de las X que consitutye el entrenamiento.
+- Correr la creación de datos artificiales para que todos posean el proceso de balanceo de clases.
+- Correr el modelo que desee para evaluar su desempeño. Note que los modelos allí expuestos ya han sido optimizados.
+- Evaluar el desempeño.
 
