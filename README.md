@@ -10,10 +10,10 @@ En caso que el lector desee replicar los resultados obtenidos, le recomendamos a
 
 El mejor modelo obtuvo un puntaje preliminar en Kaggle de $F1_{score} = 0.676$.
 
-Los resultados preliminares de todos los modelos en el conjunto de validación artificial construido, se muestra a continuación:
+# Modelo ganador
 
-![image](https://github.com/user-attachments/assets/5bc3a857-cfca-4727-b7e1-d3bdb4299412)
+El modelo ganador corresponde a una red neuronal con la siguiente arquitectura:
+![image](https://github.com/user-attachments/assets/fc722c9d-efe1-44b9-bd3b-992772eef261)
 
-#Modelo ganador
 
 
